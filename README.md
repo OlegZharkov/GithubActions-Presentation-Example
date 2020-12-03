@@ -1,2 +1,2 @@
-# [Latest Docs](https://github.com/OlegZharkov/GithubActions-Presentation-Example/releases/download/latest/myAmazing.pdf)
+# [Latest Docs Link](https://github.com/OlegZharkov/GithubActions-Presentation-Example/releases/download/latest/myAmazing.pdf)
 ![CI](https://github.com/OlegZharkov/GithubActions-Presentation-Example/workflows/CI/badge.svg)
