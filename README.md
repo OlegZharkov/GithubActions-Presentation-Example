@@ -1,2 +1,2 @@
-# GithubActions-Presentation-Example
+# GithubActions Presentation Example
 Presentation Example
